@@ -1,0 +1,42 @@
+
+.tweet {
+  padding: 30px;
+  margin-left: 0 0 20px 20px;
+  border-top: 1px solid #eee;
+}
+
+.tweet:first-child {
+  margin-top: 0;
+  padding-top: 0;
+  border: 0;
+}
+
+.tweet p {
+  margin: 15px 0;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.tweet button {
+  margin-left:0px;
+  padding: 0px;
+  border: 0;
+  background: transparent;
+  /* display: flex; */
+  /* align-items: center; */
+  color: #697882;
+  cursor: pointer;
+} 
+
+.tweet img{
+  margin: 0;
+
+}
+.tweet button:hover {
+  opacity: 0.7;
+}
+
+.tweet span{
+  font-size:small;
+  padding-left: 5px;
+}

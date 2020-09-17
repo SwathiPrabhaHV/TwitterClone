@@ -1,0 +1,51 @@
+/* .timeline-wrapper {
+    width: 1000px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .timeline-wrapper form {
+    width: 100%;
+    background: #ecebeb;
+    padding: 20px;
+    border-radius: 5px;
+ 
+  }
+  
+  .timeline-wrapper form textarea {
+    border: 3px solid #d8e5ed;
+    border-radius: 5px;
+    font-size: 14px;
+    padding: 15px;
+    width: 100%;
+    resize: none;
+  }
+  
+  .tweet-list {
+    list-style: none;
+    color: #191b1b;
+  } */
+
+  .timeline-wrapper {
+    width: 1000px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .timeline-wrapper form {
+    width: 100%;
+    background: rgba(240, 240, 240, 0.541);
+    padding: 20px;
+    border-radius: 5px;
+  }
+
+  .timeline-button{
+      margin-left:20px;
+  }
+  .tweet-list{
+      margin-left:20px;
+  }
